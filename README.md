@@ -1,6 +1,6 @@
 # d_neutral: delta-neutral funding rate scanner
 
-**Live app:** [deltaneutral-dex-funding.streamlit.app](https://deltaneutral-dex-funding.streamlit.app/) · Personal project · [LucaRota4](https://github.com/LucaRota4) & [ElioMargiotta](https://github.com/ElioMargiotta)
+**Live app:** [deltaneutral-dex-funding.streamlit.app](https://deltaneutral-dex-funding.streamlit.app/) · Personal project · [ElioMargiotta](https://github.com/ElioMargiotta) & [LucaRota4](https://github.com/LucaRota4)
 
 > This repository is a showcase. The source code is not public. Only this description is published. The live app is the best way to see the result.
 
